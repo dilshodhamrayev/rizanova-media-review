@@ -1,0 +1,62 @@
+import React, { Fragment } from 'react';
+import { Dialog, Transition } from '@headlessui/react';
+import PasswordForm from '../forms/PasswordForm';
+
+const customStyles = {
+    content: {
+        top: '50%',
+        left: '50%',
+        right: 'auto',
+        bottom: 'auto',
+        marginRight: '-50%',
+        transform: 'translate(-50%, -50%)',
+        padding: "0",
+        background: 'transparent',
+        border: 0
+    },
+    overlay: {
+        background: 'rgba(4, 4, 4, 0.8)',
+    }
+};
+
+export default function PasswordModal({ isOpen, setIsOpen }) {
+    const closeModal = () => setIsOpen(false);
+
+    return (
+        <Transition appear show={isOpen} as={Fragment}>
+            <Dialog
+                as="div"
+                className="fixed inset-0 z-3333 overflow-y-auto"
+                onClose={closeModal}
+            >
+                <div className="min-h-screen d-flex align-items-center justify-content-center">
+                    <Transition.Child
+                        as={Fragment}
+                        enter="ease-out duration-300"
+                        enterFrom="opacity-0"
+                        enterTo="opacity-100"
+                        leave="ease-in duration-200"
+                        leaveFrom="opacity-100"
+                        leaveTo="opacity-0"
+                    >
+                        <Dialog.Overlay className="fixed inset-0" style={customStyles.overlay} />
+                    </Transition.Child>
+
+                    <Transition.Child
+                        as={Fragment}
+                        enter="ease-out duration-300"
+                        enterFrom="opacity-0 scale-95"
+                        enterTo="opacity-100 scale-100"
+                        leave="ease-in duration-200"
+                        leaveFrom="opacity-100 scale-100"
+                        leaveTo="opacity-0 scale-95"
+                    >
+                        <div>
+                            <PasswordForm closeModal={closeModal} />
+                        </div>
+                    </Transition.Child>
+                </div>
+            </Dialog>
+        </Transition>
+    )
+}

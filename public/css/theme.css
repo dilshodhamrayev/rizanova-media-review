@@ -1,0 +1,833 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.theme-white header.main {
+    background-color: white;
+}
+
+.theme-white header.main nav.navbar ul.nav li a {
+    color: #131313;
+}
+
+.theme-white header.main nav.navbar ul.nav li a:hover {
+    color: #EF225D;
+}
+
+.theme-white header.main nav.navbar .navbar-tools svg:not(.lang) path {
+    fill: #131313 !important;
+}
+
+.theme-white header.main nav.navbar .navbar-tools a:hover path {
+    fill: #EF225D !important;
+}
+
+.theme-white div.hambergur:hover path {
+    fill: #EF225D !important;
+}
+
+.theme-white div.hambergur path {
+    fill: #131313 !important;
+}
+
+.theme-white header.main nav div.line {
+    height: 28px;
+    border: 1px solid #000;
+    opacity: 0.1;
+}
+
+.theme-white .logo .riza {
+    fill: #131313 !important;
+}
+
+.theme-white .logo .nova {
+    fill: #131313 !important;
+}
+
+.theme-white .profile-menu {
+    background-color: #fff;
+}
+
+.theme-white .profile-menu .header a {
+    color: #131313;
+}
+
+.theme-white .profile-menu .header a:hover {
+    color: #EF225D;
+}
+
+.theme-white .profile-menu ul li a, .theme-white .profile-menu ul li button, .theme-white .profile-menu ul li label {
+    color: #131313;
+}
+
+.theme-white .profile-menu ul li a:hover {
+    color: #EF225D;
+}
+
+.theme-white .profile-menu {
+    color: #131313;
+}
+
+.theme-white .profile-menu .footer a {
+    color: #131313;
+}
+
+.theme-white .profile-menu .footer a:hover {
+    color: #EF225D;
+}
+
+.theme-white .hambergur-menu {
+    background-color: #fff;
+}
+
+.theme-white .hambergur-menu li a {
+    color: #131313;
+}
+
+.theme-white .hambergur-menu li a:hover {
+    color: #EF225D;
+}
+
+.theme-white.rizanova-content {
+    background-color: #fff;
+}
+
+.theme-white .carousel .carousel-intro h2 {
+    color: #131313;
+}
+
+.theme-white .carousel .carousel-intro p {
+    color: #131313;
+}
+
+.theme-white .btn-outline {
+    color: #131313;
+    border: 1px solid #131313;
+}
+
+.theme-white .btn-outline:hover {
+    color: #fff !important;
+    border: 1px solid #131313;
+    background-color: #131313;
+}
+
+.theme-white .btn-outline svg {
+    fill: #131313 !important;
+}
+
+.theme-white .btn-outline:hover svg {
+    fill: #fff !important;
+}
+
+.theme-white .title-1 {
+    color: #131313;
+}
+
+.theme-white .title-2 {
+    color: #131313;
+}
+
+.theme-white .title-3 {
+    color: #131313;
+}
+
+.theme-white .music-item .title a {
+    color: #131313;
+}
+
+.theme-white .music-item .title a:hover {
+    color: #EF225D;
+}
+
+.theme-white .carousel .carousel-intro p {
+    color: #131313;
+}
+
+.theme-white nav.title-nav .show-all {
+    color: #131313;
+}
+
+.theme-white nav.title-nav .show-all:hover {
+    color: #EF225D;
+}
+
+.theme-white nav.title-nav .show-all svg {
+    fill: #131313 !important;
+}
+
+.theme-white nav.title-nav .show-all:hover svg {
+    fill: #EF225D !important;
+}
+
+.theme-white nav.title-nav:hover .show-all svg {
+    fill: #EF225D !important;
+}
+
+.theme-white .bg-different {
+    background-color: #F5FAF9;
+}
+
+.theme-white .chart-list .number {
+    color: #333333;
+}
+
+.theme-white .chart-list .artist-name {
+    color: #131313;
+}
+
+.theme-white .chart-list .artist-name:hover {
+    color: #EF225D;
+}
+
+.theme-white footer.main {
+    background-color: #F5FAF9;
+}
+
+.theme-white .feedback-link {
+    color: #131313;
+}
+
+.theme-white .second-level {
+    border-top: 1px solid #E0E0E0;
+}
+
+.theme-white .full-screen {
+    background-color: #fff;
+    color: #191919;
+}
+
+.theme-white .rizanova-audio-player {
+    background-color: #F5FAF9;
+}
+
+.theme-white .rizanova-audio-player .seek {
+    background-color: #BDBDBD;
+}
+
+.theme-white .rizanova-audio-player .seek .seek-progress {
+    background-color: #EF225D;
+}
+
+.theme-white .rizanova-audio-player .main .media .single-name {
+    color: #4F4F4F;
+}
+
+.theme-white .rizanova-audio-player .main .media .artist-name {
+    color: #828282;
+    opacity: 1;
+}
+
+.theme-white .rizanova-audio-player svg path {
+    fill: #4F4F4F;
+}
+
+.theme-white .rizanova-audio-player svg:hover path {
+    fill: #686868 !important;
+}
+
+.theme-white .rizanova-audio-player .main .tools .rc-slider .rc-slider-rail {
+    background-color: #E0E0E0;
+}
+
+.theme-white .rizanova-audio-playerlist {
+    background-color: rgba(245, 250, 249, 1);
+}
+
+.theme-white .rizanova-audio-playerlist .title-2 {
+    color: #131313;
+}
+
+.theme-white .header-1 {
+    color: #131313;
+}
+
+.theme-white .big-header {
+    color: #131313;
+}
+
+.theme-white .header-1 a {
+    color: #131313;
+}
+
+.theme-white .big-header a {
+    color: #131313;
+}
+
+.theme-white .rizanova-preloader {
+    background-color: rgba(245, 250, 249, 0.9);
+    color: black;
+}
+
+.theme-white .sidebar li a {
+    color: #131313;
+}
+
+.theme-white .sidebar li a:hover, .theme-white .sidebar li a.active {
+    background-color: #f2f2f2;
+}
+
+.theme-white .sidebar {
+    border-color: #BDBDBD;
+}
+
+.theme-white .pagination li a {
+    color: #4F4F4F;
+    background: #f2f2f2;
+}
+
+.theme-white .pagination li a svg path {
+    fill: #4F4F4F;
+}
+
+.theme-white .empty-text {
+    color: #131313;
+}
+
+.theme-white .sub-title-2 {
+    color: #828282;
+}
+
+.theme-white .current-playlist {
+    color: #4f4f4f;
+}
+
+.theme-white .album-page .details .info h2 {
+    color: #131313;
+}
+
+.theme-white .album-page .details .info h1 {
+    color: #131313;
+}
+
+.theme-white .album-page .details .info .singer a {
+    color: #131313;
+}
+
+.theme-white .album-page .details .info .album-tool svg path {
+    fill: #131313;
+}
+
+.theme-white .album-page .details .info .album-tool:hover svg path {
+    fill: #EF225D;
+}
+
+.theme-white .album-music-list .album-music-item .number {
+    color: #4F4F4F;
+}
+
+.theme-white .album-music-list .album-music-item .composition-name {
+    color: #131313;
+}
+
+.theme-white .album-music-list .album-music-item .favorite path {
+    fill: #4F4F4F;
+}
+
+.theme-white .album-music-list .album-music-item .time {
+    color: #4F4F4F;
+}
+
+.theme-white .album-music-list .album-music-item:not(.album-music-header):hover, .theme-white .album-music-list .album-music-item.active {
+    background: #F2F2F2;
+}
+
+.theme-white .album-music-list .album-music-item .control path {
+    fill: #131313;
+}
+
+.theme-white .album-music-list .album-music-item.album-music-header .composition-name {
+    color: #4F4F4F;
+}
+
+.theme-white .album-music-list .album-music-item.album-music-header .time path {
+    fill: #4F4F4F;
+}
+
+.theme-white .album {
+    background: #F5FAF9;
+}
+
+.theme-white .album .info .name {
+    color: #131313;
+}
+
+.theme-white .album .info .year {
+    color: #828282;
+}
+
+.theme-white .letters a {
+    background: #F2F2F2;
+    color: #131313;
+}
+
+.theme-white .rizanova-audio-player .seek .seek-load {
+    background-color: #A3A3A3;
+}
+
+.theme-white .person {
+    background: #f2f2f2;
+}
+
+.theme-white .person .info .full-name {
+    color: #131313;
+}
+
+.theme-white .person .info .birthday {
+    color: #4f4f4f;
+}
+
+.theme-white .person .info .birthday span {
+    color: #131313;
+}
+
+.theme-white .person .info .show-description {
+    color: #131313;
+}
+
+.theme-white .person .description {
+    color: #131313;
+}
+
+.theme-white .pagination li.active a, .theme-white .pagination li a:hover {
+    background-color: #EF225D;
+    color: #fff;
+}
+
+.theme-white .sort .sort-panel {
+    background: #F2F2F2;
+}
+
+.theme-white .sort .sort-panel a {
+    color: #4F4F4F;
+}
+
+.theme-white .sort .sort-panel a.active {
+    color: #fff;
+}
+
+.theme-white .sort .sort-panel a:not(.active):hover {
+    color: #000;
+}
+
+.theme-white .theme-thing {
+    color: #131313;
+}
+
+.theme-white .theme-thing path {
+    fill: #131313;
+}
+
+.theme-white .music-item .theme-thing path {
+    fill: #fff;
+}
+
+.theme-white .person-table th {
+    color: #4F4F4F;
+}
+
+.theme-white .person-table td, .theme-white .person-table td a {
+    color: #333333;
+}
+
+.theme-white .advanced-person-table {
+    background-color: #F5FAF9;
+}
+
+.theme-white .advanced-person-table .table .d-flex:nth-child(odd) {
+    background: #E7ECEB;
+}
+
+.theme-white .advanced-person-table .table>div .d-flex:nth-child(odd) {
+    background: transparent;
+}
+
+.theme-white .advanced-person-table .table>div .d-flex:nth-child(even) {
+    background: #E7ECEB;
+}
+
+.theme-white .advanced-person-table .table .label {
+    color: #333333;
+}
+
+.theme-white .advanced-person-table .table .value {
+    color: #333333;
+}
+
+.theme-white .advanced-person-table .table .value a {
+    color: #333333;
+}
+
+.theme-white .advanced-person-table .more-detail {
+    color: #333333;
+}
+
+.theme-white .actor .name {
+    color: #131313;
+}
+
+.theme-white .more-creators div {
+    background: #828282;
+}
+
+.theme-white .more-creators div {
+    background: #828282;
+    color: #E0E0E0;
+}
+
+.theme-white .more-creators:hover div {
+    color: #BDBDBD;
+    background: #333333;
+}
+
+.theme-white .seria .name {
+    color: #131313;
+}
+
+.theme-white .seasons {
+    border-bottom: 2px solid #E0E0E0;
+}
+
+.theme-white .seasons a {
+    color: #828282;
+}
+
+.theme-white nav.favorite a {
+    color: #131313;
+}
+
+.theme-white nav.favorite a.active, .theme-white nav.favorite a:hover {
+    background: #f2f2f2;
+}
+
+.theme-white .passport .label, .theme-white .passport .value {
+    color: #131313;
+}
+
+.theme-white .passport .value.id {
+    color: white;
+}
+
+.theme-white .sidebar li a.btn-spec span {
+    color: white;
+}
+
+.theme-white .sidebar li a.btn-spec:hover span {
+    color: #EF225D;
+}
+
+.theme-white .clear-history {
+    color: #131313;
+}
+
+.theme-white .clear-history path {
+    fill: #131313;
+}
+
+.theme-white .profile .first-letter {
+    color: #FFF;
+}
+
+.theme-white .profile .detail .value {
+    color: #131313;
+}
+
+.theme-white .payment-form {
+    background: #F2F2F2;
+}
+
+.theme-white .payment-text {
+    color: #4F4F4F;
+}
+
+.theme-white .subscription {
+    border: 2px solid #F2F2F2;
+    background-color: #FFF;
+}
+
+.theme-white .subscription::before {
+    background: -o-radial-gradient(78.93% 37.98%, 61.52% 121.65%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.62) 48.15%, #FFFFFF 100%);
+    background: radial-gradient(61.52% 121.65% at 78.93% 37.98%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.62) 48.15%, #FFFFFF 100%);
+    mix-blend-mode: normal;
+}
+
+.theme-white .subscription .sub-title {
+    color: #828282;
+}
+
+.theme-white .subscription ul li {
+    color: #131313;
+}
+
+.theme-white .rizanova-login {
+    border: 2px solid #F2F2F2;
+}
+
+.theme-white .btn-gradient-purple-text {
+    color: #131313;
+}
+
+.theme-white .must-change {
+    fill: #131313 !important;
+}
+
+.theme-white .must-change2 {
+    fill: #E6A540 !important;
+}
+
+.theme-white .must-change3 {
+    fill: #00517C !important;
+}
+
+.theme-white .must-change4 {
+    fill: #2566AF !important;
+}
+
+.theme-white .album-music-list .album-music-item .composition-name a.composition-link, .theme-white .album-music-list .album-music-item .album-name a {
+    color: #131313;
+}
+
+.theme-white .album-music-list .album-music-item .composition-name a.composition-link:hover {
+    color: #EF225D;
+}
+
+.theme-white .search-form input {
+    color: #131313;
+}
+
+.theme-white .search {
+    background-color: #fff;
+}
+
+.theme-white .search input {
+    color: #131313;
+}
+
+.theme-white .search .content {
+    border: 1px solid #BDBDBD;
+}
+
+.theme-white .search .content .results {
+    background-color: #f2f2f2;
+}
+
+.theme-white .search .content .results .result .not-found {
+    color: #131313;
+}
+
+.theme-white .search .content .results .result .info .name {
+    color: #131313;
+}
+
+.theme-white .search .content .results .result .price span.free {
+    color: #828282;
+}
+
+.theme-white .search .content .results .result .info .year {
+    color: #828282;
+}
+
+.theme-white .search .content div.footer {
+    background: #E0E0E0;
+}
+
+.theme-white .search .content div.footer a {
+    color: #131313;
+}
+
+.theme-white .table tbody td a, .theme-white .table tbody td {
+    color: #131313;
+}
+
+.theme-white .share .content {
+    background: #fff;
+    -webkit-filter: drop-shadow(0px 2px 12px rgba(0, 0, 0, 0.15));
+            filter: drop-shadow(0px 2px 12px rgba(0, 0, 0, 0.15));
+}
+
+.theme-white .share .content::after {
+    background: #fff;
+}
+
+.theme-white .share .content .link span {
+    color: #131313;
+}
+
+.theme-white .share .content .link svg rect {
+    fill: #E0E0E0;
+}
+
+.theme-white .share .content .link a:hover svg path {
+    fill: #EF225D;
+}
+
+@-webkit-keyframes likedHeartPathDark {
+    0% {
+        fill: #131313;
+    }
+
+    50% {
+        fill: #EF225D;
+    }
+
+    100% {
+        fill: #131313;
+    }
+}
+
+@keyframes likedHeartPathDark {
+    0% {
+        fill: #131313;
+    }
+
+    50% {
+        fill: #EF225D;
+    }
+
+    100% {
+        fill: #131313;
+    }
+}
+
+.theme-white .liked-heart path {
+    -webkit-animation: likedHeartPathDark 1s ease 0s 1 forwards normal;
+            animation: likedHeartPathDark 1s ease 0s 1 forwards normal;
+    fill: #131313;
+}
+
+.theme-white .music-item .liked-heart path {
+    -webkit-animation: likedHeartPath 1s ease 0s 1 forwards normal;
+            animation: likedHeartPath 1s ease 0s 1 forwards normal;
+    fill: #fff;
+}
+
+.theme-white .chart-list li.advanced:hover {
+    background-color: #F2F2F2;
+}
+
+.theme-white .chart-list .advanced .control-play svg path {
+    fill: #131313;
+}
+
+.theme-white .last-track .release_date {
+    color: #131313;
+}
+
+.theme-white .hambergur-menu li a, .theme-white .hambergur-menu li button {
+    color: #131313;
+}
+
+.theme-white .chart-list .artists .composition-name {
+    color: #4F4F4F;
+}
+
+.theme-white .chart-list .artists .composition-name:hover {
+    color: #EF225D;
+}
+
+.theme-white .rizanova-audio-player .main .controls a.active svg path {
+    fill: #EF225D !important;
+}
+
+.theme-white .error-page-container {
+    background: #fff;
+}
+
+.theme-white .error-page-title, .theme-white .error-page-text {
+    color: #131313;
+}
+
+.theme-white .error-page-title {
+    border-right: 1px solid rgba(0, 0, 0, .3);
+}
+
+.theme-white .breadcrumbs li a, .theme-white .breadcrumbs li span {
+    color: #131313;
+}
+
+.theme-white .subscription-info {
+    background-color: #fff !important;
+}
+
+.theme-white .subscription-page .subscribe-footer {
+    background-color: #F2F2F2;
+}
+
+.theme-white .setting .theme .title {
+    color: #131313;
+}
+
+.theme-white .setting .label {
+    color: #131313;
+}
+
+.theme-white .select-menu {
+    color: #131313;
+}
+
+.theme-white .menu-content {
+    background-color: #F5FAF9;
+}
+
+.theme-white .lang-content {
+    background-color: #F5FAF9;
+}
+
+.theme-white .menu-content button {
+    color: #131313;
+}
+
+.theme-white .lang-content button {
+    color: #131313;
+}
+
+.theme-white .menu-content button.active, .theme-white .menu-content button:hover {
+    color: #fff;
+}
+
+.theme-white .lang-content button.active, .theme-white .lang-content button:hover {
+    color: #fff;
+}
+
+.theme-white .powered-by {
+    color: #131313;
+}
+
+.theme-white div.css-1s2u09g-control, .theme-white div.css-1pahdxg-control {
+    border: 1px solid #4F4F4F;
+    color: #131313;
+    background-color: transparent;
+}
+
+.theme-white .css-1n7v3ny-option:hover {
+    background-color: #EF225D;
+}
+
+.theme-white .css-4ljt47-MenuList {
+    background: #F5FAF9;
+    border: 1px solid #828282;
+}
+
+.theme-white .css-4ljt47-MenuList div {
+    background: transparent;
+    color: #131313;
+}
+
+.theme-white .css-6j8wv5-Input, .theme-white .css-qc6sy-singleValue, .theme-white .css-6j8wv5-Input input, .theme-white .css-1pndypt-Input {
+    color: #131313 !important;
+}
+
+.theme-white .card-label {
+    color: #131313;
+}
+
+.theme-white .react-tooltip-lite {
+    color: #fff;
+    background-color: #131313;
+}
+
+.theme-white .react-tooltip-lite-arrow {
+    border-color: #131313;
+}
